@@ -1,4 +1,4 @@
-# 📚 Amazon Data Science Books – Exploratory Data Analysis (EDA)
+# Amazon Data Science Books – Exploratory Data Analysis (EDA)
 
 Welcome to the Amazon Data Science Books EDA project!  
 This project performs a deep exploratory analysis on a dataset of books related to Data Science sold on Amazon, uncovering key insights, trends, and patterns that can guide readers, authors, and marketers alike.
@@ -74,9 +74,5 @@ Uncover all this and more in the notebook!
 ## 📬 Contact
 
 For queries or collaborations:  
-📧 yashsoni.ds@gmail.com  
-🔗 [LinkedIn – Yash Soni](https://www.linkedin.com/in/yash-soni-123)
+📧 yashsoni7978@gmail.com  
 
----
-
-⭐ _If you like this project, don’t forget to star it on GitHub and connect!_
